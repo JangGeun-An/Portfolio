@@ -1,0 +1,114 @@
+.first {
+    background-image: url('img/baekyeong.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.menuu-start {
+    padding: 100px;
+}
+
+#study.menuu-start {
+    padding-top: 50px;
+}
+
+.menuu {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: orangered;
+    padding-bottom: 50px;
+}
+
+.card {
+    text-align: center;
+}
+
+.career-title {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding-right: 50px;
+}
+
+.history-1 {
+    padding-right: 20px;
+    font-size: 14px;
+}
+
+.history-2 {
+    width: 24px;
+    height: 24px;
+}
+
+.history-3 {
+    width: 210px;
+    padding-left: 20px;
+}
+
+.history-3-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.skiles-logo {
+    margin-bottom: 10px;
+}
+
+.skiles-font {
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(90, 90, 90);
+}
+
+.projects-title {
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+}
+
+.projects-description {
+    font-size: 18px;
+    color: gray;
+}
+
+.projects-main {
+    font-weight: bold;
+}
+
+.projects-icon {
+    width: 20px;
+    height: 16px;
+}
+
+.projects-mainbox {
+    background-color: lightpink;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.carousel-img {
+    width: 600px;
+    height: 300px;
+}
+
+.study-bg {
+    width: 700px;
+    height: 300px;
+}
+
+.study-btn {
+    font-size: 14px;
+    padding: 6px 10px;
+}
+
+.footer-icon {
+    width: 50px;
+    height: 50px;
+}
